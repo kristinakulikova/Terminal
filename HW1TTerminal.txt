@@ -1,4 +1,4 @@
-1) Посмотреть где я
+1) Посмотреть где я - pwd
 2) Создать папку - mkdir Folder1
 3) Зайти в папку - cd Folder1
 4) Создать 3 папки - mkdir Folder2 Folder3 Folder4
