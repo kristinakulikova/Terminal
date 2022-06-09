@@ -1,5 +1,9 @@
 Hello
 It is a good day/
 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[!
+<<<<<<< HEAD
 lklkkljkl
 k;njklk
+=======
+It change
+>>>>>>> b0f13b3eb5a750d9cabd1a242c46b8f62034c227
